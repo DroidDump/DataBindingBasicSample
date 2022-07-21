@@ -15,7 +15,7 @@
         android:theme="@style/Theme.DataBindingBasicSample"
         tools:targetApi="31">
         <activity
-            android:name=".MainActivity"
+            android:name=".ui.ViewModelActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
